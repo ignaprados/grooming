@@ -1,5 +1,5 @@
 # Grooming
-Página Web Grooming (HTML5 & CSS3)
+Página Web Grooming.
 Creador: Ignacio Prados
 
 https://ignacioprados.github.io/Grooming
