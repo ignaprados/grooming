@@ -1,4 +1,4 @@
-![banner](https://github.com/IgnacioPrados/Grooming/blob/gh-pages/preview.JPG?raw=true)
+![banner](https://raw.githubusercontent.com/IgnacioPrados/web/gh-pages/assets/img/work1.jpg)
 # Grooming
 Página Web Grooming.<br><br>
 Creador: Ignacio Prados
