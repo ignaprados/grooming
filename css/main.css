@@ -369,7 +369,7 @@ body::-webkit-scrollbar{
 
 	}
 	.btns .spotlight:hover{
-		border-bottom: #808080 10px solid;
+		border-bottom: #585858 10px solid;
 		
 	}
 
@@ -693,6 +693,7 @@ body::-webkit-scrollbar{
 
 		.wrapper > header.special {
 			padding: 4rem 2rem;
+			border-top: #585858	15px solid;
 		}
 
 			@media screen and (max-width: 980px) {
