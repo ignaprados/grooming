@@ -67,7 +67,7 @@ body::-webkit-scrollbar{
   }
 
   .dev:hover {
-	  color: #ffd3b6;
+	  color: #daa97c;
   }
 
 
@@ -118,7 +118,8 @@ body::-webkit-scrollbar{
 	}
 
 	a {
-		text-decoration: underline;
+		text-decoration: none;
+		color: #000;
 	}
 
 		a:hover {
@@ -261,9 +262,7 @@ body::-webkit-scrollbar{
 		color: #1e1f23;
 	}
 
-	a {
-		color: rgb(0, 0, 0);
-	}
+
 
 	strong, b {
 		color: #1e1f23;
@@ -345,6 +344,9 @@ body::-webkit-scrollbar{
 
 /*Spotlight */
 
+	a .spotlight {
+		color: rgba(0, 0, 0, 0.5);
+	}
 	.spotlight {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -358,6 +360,17 @@ body::-webkit-scrollbar{
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
+	}
+
+	.btns .spotlight{
+		transition: all .4s ease;
+		border: none;
+		
+
+	}
+	.btns .spotlight:hover{
+		border-bottom: #808080 10px solid;
+		
 	}
 
 		.spotlight > * {
@@ -393,7 +406,7 @@ body::-webkit-scrollbar{
 
 		.spotlight.alt {
 			background: #1e1f23;
-			color: rgba(255, 255, 255, 0.25);
+			color: rgba(255, 255, 255, 0.25) !important;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
