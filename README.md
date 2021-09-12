@@ -1,6 +1,8 @@
 ![banner](https://raw.githubusercontent.com/IgnacioPrados/web/gh-pages/assets/img/work1.jpg)
 # Grooming
 
+Informative Website about grooming
+
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
 https://grooming.vercel.app
